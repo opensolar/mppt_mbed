@@ -1,0 +1,2 @@
+python scope.py
+pause
